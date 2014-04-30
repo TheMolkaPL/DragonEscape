@@ -1,0 +1,4 @@
+DragonEscape.AddCheckPoint
+DragonEscape.SetStartLocation
+DragonEscape.Start
+DragonEscape.SetPlayerSpawn
