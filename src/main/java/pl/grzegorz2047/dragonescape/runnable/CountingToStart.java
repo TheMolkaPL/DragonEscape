@@ -4,13 +4,13 @@
  * and open the template in the editor.
  */
 
-package pl.grzegorz2047.dragonescapecraftgames.runnable;
+package pl.grzegorz2047.dragonescape.runnable;
 
 import de.kumpelblase2.remoteentities.api.RemoteEntityType;
 import de.kumpelblase2.remoteentities.entities.RemoteEnderDragon;
 import org.bukkit.Bukkit;
-import pl.grzegorz2047.dragonescapecraftgames.DragonEscape;
-import pl.grzegorz2047.dragonescapecraftgames.PluginData;
+import pl.grzegorz2047.dragonescape.DragonEscape;
+import pl.grzegorz2047.dragonescape.PluginData;
 
 /**
  *

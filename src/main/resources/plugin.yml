@@ -1,7 +1,7 @@
-name: DragonEscapeCraftGames
-description: runaway from EnderDragon
+name: DragonEscape
+description: Runaway from EnderDragon
 version: 1.0
-main: pl.grzegorz2047.dragonescapecraftgames.DragonEscape
+main: pl.grzegorz2047.dragonescape.DragonEscape
 depend: [RemoteEntities]
 commands:
   dg:

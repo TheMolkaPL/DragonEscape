@@ -4,8 +4,8 @@
  * and open the template in the editor.
  */
 
-package pl.grzegorz2047.dragonescapecraftgames;
-import pl.grzegorz2047.dragonescapecraftgames.commands.DgCommands;
+package pl.grzegorz2047.dragonescape;
+import pl.grzegorz2047.dragonescape.commands.DgCommands;
 import org.bukkit.Bukkit;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
@@ -16,11 +16,11 @@ import de.kumpelblase2.remoteentities.api.RemoteEntityType;
 import de.kumpelblase2.remoteentities.entities.RemoteEnderDragon;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
-import pl.grzegorz2047.dragonescapecraftgames.PluginData;
-import pl.grzegorz2047.dragonescapecraftgames.events.PlayerDead;
-import pl.grzegorz2047.dragonescapecraftgames.events.PlayerJoin;
-import pl.grzegorz2047.dragonescapecraftgames.events.PlayerLogin;
-import pl.grzegorz2047.dragonescapecraftgames.events.PlayerMove;
+import pl.grzegorz2047.dragonescape.PluginData;
+import pl.grzegorz2047.dragonescape.events.PlayerDead;
+import pl.grzegorz2047.dragonescape.events.PlayerJoin;
+import pl.grzegorz2047.dragonescape.events.PlayerLogin;
+import pl.grzegorz2047.dragonescape.events.PlayerMove;
 /**
  *
  * @author Grzegorz

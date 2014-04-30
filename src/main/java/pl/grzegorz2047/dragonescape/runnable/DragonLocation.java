@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package pl.grzegorz2047.dragonescapecraftgames.runnable;
+package pl.grzegorz2047.dragonescape.runnable;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
@@ -12,8 +12,8 @@ import org.bukkit.Material;
 import org.bukkit.potion.PotionEffect;
 import org.bukkit.potion.PotionEffectType;
 import org.bukkit.util.Vector;
-import pl.grzegorz2047.dragonescapecraftgames.PluginData;
-import pl.grzegorz2047.dragonescapecraftgames.PluginData.Status;
+import pl.grzegorz2047.dragonescape.PluginData;
+import pl.grzegorz2047.dragonescape.PluginData.Status;
 
 /**
  *

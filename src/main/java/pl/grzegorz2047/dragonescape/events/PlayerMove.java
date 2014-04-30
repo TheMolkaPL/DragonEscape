@@ -4,13 +4,13 @@
  * and open the template in the editor.
  */
 
-package pl.grzegorz2047.dragonescapecraftgames.events;
+package pl.grzegorz2047.dragonescape.events;
 
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerMoveEvent;
-import pl.grzegorz2047.dragonescapecraftgames.PluginData;
-import pl.grzegorz2047.dragonescapecraftgames.PluginData.Status;
+import pl.grzegorz2047.dragonescape.PluginData;
+import pl.grzegorz2047.dragonescape.PluginData.Status;
 
 /**
  *

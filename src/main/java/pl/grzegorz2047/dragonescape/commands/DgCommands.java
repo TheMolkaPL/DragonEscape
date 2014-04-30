@@ -4,10 +4,10 @@
  * and open the template in the editor.
  */
 
-package pl.grzegorz2047.dragonescapecraftgames.commands;
+package pl.grzegorz2047.dragonescape.commands;
 
-import pl.grzegorz2047.dragonescapecraftgames.runnable.DragonLocation;
-import pl.grzegorz2047.dragonescapecraftgames.DragonEscape;
+import pl.grzegorz2047.dragonescape.runnable.DragonLocation;
+import pl.grzegorz2047.dragonescape.DragonEscape;
 import de.kumpelblase2.remoteentities.api.RemoteEntityType;
 import de.kumpelblase2.remoteentities.entities.RemoteEnderDragon;
 import org.bukkit.Bukkit;
@@ -15,9 +15,9 @@ import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
-import pl.grzegorz2047.dragonescapecraftgames.PluginData;
-import pl.grzegorz2047.dragonescapecraftgames.PluginData;
-import pl.grzegorz2047.dragonescapecraftgames.PluginData.Status;
+import pl.grzegorz2047.dragonescape.PluginData;
+import pl.grzegorz2047.dragonescape.PluginData;
+import pl.grzegorz2047.dragonescape.PluginData.Status;
 
 /**
  *

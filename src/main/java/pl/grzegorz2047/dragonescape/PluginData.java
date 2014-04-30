@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package pl.grzegorz2047.dragonescapecraftgames;
+package pl.grzegorz2047.dragonescape;
 
 import de.kumpelblase2.remoteentities.EntityManager;
 import de.kumpelblase2.remoteentities.entities.RemoteEnderDragon;
